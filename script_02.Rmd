@@ -17,10 +17,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Scene 1
 
+
 **Prompt:** Use **readxl** to read in the data and store it in an object called `raw_data`. Clean the data by cleaning any column names, skipping or cutting rows, and storing the cleaned data in an object called `en_fall_2020`. Additionally, since we will be looking only at undergraduate enrollment, get rid of any irrelevant columns, and filter to keep only courses with at least ten undergraduate students. This will get rid of any weird research courses. Look closely at your data! There is a lot of garbage to find and deal with.
 
 Once you have finished cleaning your data, figure out the course with the highest enrollment. And figure out how many students are enrolled in Gov 50. If you get a number much lower than 151, you have done something wrong . . .
 
+```{r}
+read_excel("Downloads")
+```
 
 
 ### Scene 2

@@ -1,0 +1,11 @@
+---
+title: "Milestone_1"
+author: "Lavinia Teodorescu"
+date: "9/18/2020"
+output: html_document
+---
+
+    For my final project, I was considering doing a data project regarding the women in public jobs in post-communist countries versus countries who have never been communist. 
+    This idea started because one of the most important principles of communism is gender equality. In my homecountry, Romania, our communist leader Nicolae Ceasuescu was actively attempting to regulate the number of women and men that were hired in public jobs. And although the procentage was quite close to 50-50, women appeare to have never occupied positions of power and leadership. To this day, Romania prides itself on being completely free of gender discrimination. However, when looking at political campaigns and important public jobs, very few women are present. 
+    Although they are hired in pblic jobs, and although one priciple of communism was to create gender equality, women have been constanly placed in lower working positions compard to man. It is also discuraged for women to become public figures, and supported for them to maintain background jobs.  This is my personal observation, and I would like to actviely pursue this question through a data project. 
+    I can gather data both in Romanian and in English, and have access to Eastern European documents in our libraries. I am hoping to gather data from multiple countries, and consider both post-communist countries which democratized and ones which did not. 
